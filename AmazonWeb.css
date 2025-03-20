@@ -155,7 +155,7 @@ span {
 /* Hero section */
 
 .hero-section {
-    background-image: url(1.jpg);
+    background-image: url(./images/1.jpg);
     height: 370px;
     background-size: cover;
     display: flex;
@@ -186,7 +186,7 @@ span {
 .shop-section {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
     background-color: rgb(179, 244, 179);
 }
 
@@ -272,7 +272,7 @@ ul p {
 }
 
 .logo {
-    background-image: url("amazon_logo1.jpg");
+    background-image: url("./images/amazon_logo1.jpg");
     background-size: cover;
     height: 50px;
     width: 100px;
